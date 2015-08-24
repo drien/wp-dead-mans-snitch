@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== WP Dead Man's Snitch ===
 Contributors: adelessert
 Tags: admin, monitoring, wp-cron, cron
 Requires at least: 4.2.0
